@@ -8,6 +8,7 @@ video=createCapture(VIDEO);
 video.hide();
 }
 
+
 function draw() {
 image(video,230,160,220,200);
 fill(42,13,5);
